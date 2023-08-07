@@ -1,5 +1,4 @@
-# UTB400
-A High-quality Benchmark for Underwater Tracking
+# UTB180: A High-quality Benchmark for Underwater Tracking
 
 ![Sample Tracking](/images/ACCV_logo.png). 
 
